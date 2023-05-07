@@ -1,0 +1,49 @@
+.who {
+    top: 85vh;
+}
+.carousel-item {
+    height: 400px;
+}
+.carousel-control-next-icon {
+    background-color: #1BA0E1;
+    position: absolute;
+    top: 30vh;
+}
+.carousel-control-prev-icon {
+    background-color: #F1F1F1;
+    position: absolute;
+    top: 30vh;
+}
+h2 {
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 30px;
+
+
+color: #029FE4;
+}
+h5 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 38px;
+    color: #000000;  
+}
+.indicators {
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 38px;
+
+
+color: #303030;
+}
+.caption {
+    position: absolute;
+    top: 27.5vh;
+    left: -28vh;
+}

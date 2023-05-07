@@ -1,0 +1,10 @@
+.car {
+  position: absolute;
+    top: 200vh;
+    background-color: #509FDD;
+  }
+  .spes {
+    background-color: #fff;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }

@@ -1,0 +1,8 @@
+.core {
+    position: absolute;
+    top: 74vh;
+    width: 400px;
+}
+.ul-core {
+    list-style-image: url(../../assets/Rectangle\ 92.jpg);
+}

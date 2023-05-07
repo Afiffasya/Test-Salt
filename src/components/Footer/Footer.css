@@ -1,0 +1,47 @@
+.foot {
+    background-color: #07477A;
+    position: absolute;
+    top: 249vh;
+}
+.icon {
+    margin-top: 30px;
+}
+.addres {
+    background-color: #fff;
+    margin-top: 30px;
+    height: 250px;
+}
+.dropdown {
+    justify-content: center;
+    display: flex;
+}
+.btn {
+    border: 2px solid;
+    border-color: black;
+    margin-top: 20px;
+}
+h6 {
+   margin-top: 40px;
+   max-width: 180px;
+   margin-left: 20px;
+line-height: 21px;
+letter-spacing: 0.02em;
+
+color: #25A0D8;
+}
+.txt {
+    font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 48px;
+
+
+color: #FFFFFF;
+}
+.ul-foot {
+    background-image: url(../../assets/bacck.svg);
+    background-size: cover;
+    margin-top: 20px;
+    height: 250px;
+}
